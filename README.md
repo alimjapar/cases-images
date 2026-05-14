@@ -1,2 +1,2 @@
 # cases-images
-Alim Japar's case studie pictures
+Alim Japar's case study pictures
